@@ -1,0 +1,29 @@
+
+
+.formulario input[value="Agregar"] {
+
+	background-color: #22BCE0;
+	box-shadow: rgba(0, 0, 0, 0.5) 5px 5px 28px;
+	font-style: italic;
+	text-shadow: rgba(0, 0, 0, 0.5) 2px 2px 5px;
+	color: white;
+	border: 1px solid #666666;
+	border-radius: 5px;
+}
+
+.formulario {
+	background: #F8F8F8;
+	margin: 50px;
+	padding: 30px auto;
+	border: 2px solid #A6A6A6;
+	border-radius: 5px;
+
+}
+
+input {
+	display: block;
+}
+
+.formulario input {
+	margin: 10px;
+}

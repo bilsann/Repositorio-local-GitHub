@@ -1,0 +1,61 @@
+#cabecera {
+	background: #0099FF;	
+	padding: 30px;
+
+}
+
+#menu {
+	background-color: #4D7794;
+}
+
+#contenido {
+	background-color: #94FF94;
+	height: 300px;
+	width: 600px;
+	float: left;
+}
+
+#lateral {
+	background-color: #FFFF99;
+	width: 360px;
+	height: 300px;
+	float: left;
+
+}
+
+#pie {
+	clear: both;
+	background-color: #E699CC;
+}
+
+
+body {
+	background-color: #B3B3B3;
+	text-align: center;
+}
+
+#agrupar {
+	width: 960px;
+	margin: 0px auto;
+}
+
+
+h2 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+.formulario input[type="submit"] {
+
+	background-color: #22BCE0;
+	box-shadow: rgba(0, 0, 0, 0.5) 5px 5px 28px;
+	font-style: italic;
+	text-shadow: rgba(0, 0, 0, 0.5) 2px 2px 5px;
+
+}
